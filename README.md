@@ -23,7 +23,7 @@ Aqui se vai encontrar:
 
 ## 🗂️ Base de Dados 
 
-* Toda a base de dados encontrar aqui ↙️ *
+**Toda a base de dados encontrar aqui ↙️**
 
 [BANCO_DE_DADOS_ARTESP](https://docs.google.com/spreadsheets/d/1jpNWKzKyYzKdIOuEqK2vCKJZa1CAq4AxiGNj0CO9sqI/edit?usp=sharing)
 
