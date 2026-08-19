@@ -2,5 +2,5 @@
 
 Uma Recriação da malha metroviária atual e projetos futuros no minecraft
  
-> [!CAUTION]
-> Todo o Conteudo Apresentado são ficticios e nao devem ser usados para comparaçoes reais
+> [!Important]
+> Todo o Conteudo Apresentado são ficticios e não devem ser usados para comparaçoes reais
