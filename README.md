@@ -27,4 +27,7 @@ Aqui se vai encontrar:
 
 [BANCO_DE_DADOS_ARTESP](https://docs.google.com/spreadsheets/d/1jpNWKzKyYzKdIOuEqK2vCKJZa1CAq4AxiGNj0CO9sqI/edit?usp=sharing)
 
+> [!Important]
+> Lembrando que todo o conteúdo apresentado na base de dados e ficticio e não devem ser usados para comparações reais
+
 
