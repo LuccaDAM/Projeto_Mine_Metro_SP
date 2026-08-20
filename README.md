@@ -30,6 +30,11 @@ Aqui tem Links dos Mapas ↙️
 [Mapa_Metropolitado](https://metromapmaker.com/map/Y-i8CZKV)
 
 [Mapa Trivia(Linhas 11, 12 e 13)](https://metromapmaker.com/map/He_H61jI)
+
+>[!Note]
+>Qualquer alteração no mapa pelo link não afetara o link atual, então se quiser brincar, fique a vontade!
+
+
 ## 🗂️ Base de Dados 
 
 **Toda a base de dados encontrar aqui ↙️**
