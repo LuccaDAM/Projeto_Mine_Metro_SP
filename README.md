@@ -21,9 +21,9 @@ Aqui se vai encontrar:
 * MODS
 * Base De Dados
 
-## 🗺️ MAPAMAKER
+## 🗺️ MetroMapMaker
 
-O projeto do mapa foi todo desenvolvido em base do site de criação de mapa de metro **MapaMaker**
+O projeto do mapa foi todo desenvolvido em base do site de criação de mapa de metro **MetroMapMaker**
 
 Aqui tem Links dos Mapas ↙️
 
