@@ -1,0 +1,49 @@
+Atenção versão mais recente 3.0.1
+----------------------------------
+
+
+Linhas 1, 2, 3, 15, 19 e 20 (METRO)
+
+chicken death (Chegando da estação) / playsound chicken.death.custom @p ~ ~ ~ 5 1
+
+chicken hurt (saindo da estação) / playsound chicken.hurt.custom @p ~ ~ ~ 5 1
+
+----------------------------------
+ 
+Linha 4 amarela (numero positivo sentido Taboao ~x [1]) (numero negatico sentido Luz ~-x [1])
+
+fox eat - som 1 (saindo estação) / playsound fox.eat.custom @p ~ ~ ~ 5 1 /
+
+fox death - som 2 (chegando estação) / playsound fox.death.custom @p ~ ~ ~ 5 1 /
+
+----------------------------------
+
+Linha 5 Lilas
+
+cow death / playsound cow.death.custom @p ~ ~ ~ 5 1
+
+----------------------------------
+
+Linha 6, 16 e 18
+
+creeper death / playsound creeper.death.custom @p ~ ~ ~ 5 1
+
+-----------------------------------
+
+Linha 7 Rubi
+
+Pig death / playsound pig.death.custom @p ~ ~ ~ 5 1
+
+------------------------------------
+
+Linha 8, 9 e 17
+
+skeleton death / playsound skeleton.death.custom @p ~ ~ ~ 5 1
+
+---------------------------------------
+
+CPTM 10, 11, 12, 13 e 14
+
+zombie death (chegando da estação) / playsound zombie.death.custom @p ~ ~ ~ 5 1
+
+zombie hurt (saindo da estação) / playsound zombie.hurt.custom @p ~ ~ ~ 5 1
