@@ -2,7 +2,7 @@
 
 Uma Recriação da malha metroviária atual e projetos futuros no Minecraft Bedrock
  
-> [!Important]
+> [!Alert]
 > Este projeto e todo o conteúdo apresentado aqui são puramente fictícios e voltados para o jogo Minecraft Bedrock. Os dados, mapas, linhas e estações não representam o sistema real e não possuem vínculos com órgãos reais de transporte do Governo do Estado de São Paulo.
 
 ## 🚄 Sobre o Projeto
