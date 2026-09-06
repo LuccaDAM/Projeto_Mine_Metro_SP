@@ -43,6 +43,8 @@ O projeto do mapa foi todo desenvolvido em base do site de criação de mapa de 
 
 [Mapa Linha 14 Onix](https://metromapmaker.com/map/H0amklA3)
 
+[Mapa linha 16 violeta](https://metromapmaker.com/map/t3CbVTIG)
+
 >[!Note]
 >Qualquer alteração no mapa pelo link não afetara o link atual, então se quiser brincar, fique a vontade!
 
