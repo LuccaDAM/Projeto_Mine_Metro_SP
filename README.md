@@ -45,6 +45,14 @@ O projeto do mapa foi todo desenvolvido em base do site de criação de mapa de 
 
 [Mapa linha 16 violeta](https://metromapmaker.com/map/t3CbVTIG)
 
+[Mapa linha 17 Ouro](https://metromapmaker.com/map/5DDy9Ztt)
+
+[Mapa linha 18 Bronze](https://metromapmaker.com/map/E622p_0N)
+
+[Mapa linha 19 Celeste](https://metromapmaker.com/map/zP7rBPOz)
+
+[Mapa linha 20 rosa](https://metromapmaker.com/map/eW6Sgj_W)
+
 >[!Note]
 >Qualquer alteração no mapa pelo link não afetara o link atual, então se quiser brincar, fique a vontade!
 
