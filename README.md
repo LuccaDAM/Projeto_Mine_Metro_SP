@@ -1,5 +1,4 @@
-# 🚆 Projeto_Mine_Metro_SP 
-
+# 🚆 Projeto Metro São Paulo no Minecraft
 Uma Recriação da malha metroviária atual e projetos futuros no Minecraft Bedrock
  
 > [!Important]
